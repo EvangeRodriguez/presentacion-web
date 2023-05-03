@@ -3,6 +3,9 @@
     margin: auto;
     padding: auto;
     box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 html, body {
     height: 100%;
